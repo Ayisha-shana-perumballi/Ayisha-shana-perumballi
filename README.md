@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayisha%20Shana%20Perumballi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayisha%20Shana%20Perumballi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20AI%20Developer%20%7C%20GenAI%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Ayisha-shana-perumballi">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+%26+scalable+software;AI%2FML+%7C+Full+Stack+%7C+Cloud+Native;Engineering+products+that+matter;Open+to+SDE+%26+AI+Engineer+roles&font=Fira+Code&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=22&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%2B+IoT+powered+products;GenAI+%7C+RAG+%7C+LLM+APIs+%7C+ML+Pipelines;Turning+data+into+intelligent+systems;Open+to+AI%2FData+Analytics+%26+GenAI+roles&font=Fira+Code&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=22&pause=1500" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Engineering-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)%20%E2%80%A2%202023--2027-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ayisha-shana-perumballi" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ayisha-shana-perumballi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ayishashana@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayisha-shana-perumballi-66669a314" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayishashana256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ayisha-shana-perumballi" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -26,218 +26,231 @@
 
 </div>
 
----
+-----
 
 ### 🟣 About Me
 
 ```yaml
 name: "Ayisha Shana Perumballi"
-role: "Software Engineer | AI/ML Enthusiast"
+role: "Junior AI Developer | GenAI Developer"
+education: "B.Tech in Computer Science Engineering (AI), 2023 - 2027"
+institute: "Adi Shankara Institute of Engineering and Technology, Kerala"
 focus:
-  - Full Stack Development
-  - Artificial Intelligence & Machine Learning
-  - Scalable & Maintainable Systems
-  - Product-Driven Engineering
+  - Generative AI & LLM-powered Applications
+  - RAG Pipelines & Prompt Engineering
+  - Machine Learning & Computer Vision
+  - AI + IoT Integrated Systems
+  - Data Analytics & Reporting
 philosophy: >
-  I build software with a strong foundation in computer science fundamentals,
-  combining clean engineering practices with AI-driven problem solving to
-  ship products that are reliable, scalable, and genuinely useful.
+  I'm a B.Tech AI student passionate about building real-world AI solutions
+  that combine machine learning, generative AI, and IoT to solve practical
+  problems. From AI chatbots and RAG pipelines to face recognition systems
+  and IoT-powered health monitoring, I enjoy taking ideas from concept to
+  working, production-ready prototypes.
 ```
 
-I'm a Computer Science engineering student focused on building **production-grade software** across the stack — from responsive front-end interfaces to robust back-end systems and AI-powered features. My work spans **mobile app development (Flutter/Dart)**, **web development (TypeScript/JavaScript)**, **systems programming (C/Java)**, and applied **AI/ML** for real-world healthcare and productivity tools.
+I have hands-on experience building **AI + IoT systems**, **ML pipelines**, and **data analytics workflows**. I’m proficient in **Python, Pandas, and NumPy**, with growing expertise in **prompt engineering**, **LLM APIs (OpenAI/Gemini)**, and **RAG concepts**. I enjoy bridging the gap between hardware and intelligent software — integrating sensors, mobile apps, and cloud backends with AI-driven decision-making.
 
-I care deeply about writing **clean, maintainable code**, designing systems that **scale**, and shipping features that create **measurable impact**. I approach every project with a product engineering mindset — understanding the user problem first, then engineering the right solution.
+I’m currently looking to contribute to **real-world AI solutions**, build **RAG pipelines**, and develop **production-grade intelligent applications** as part of an AI/Data Analytics or Junior GenAI Developer role.
 
 <table align="center">
 <tr>
 <td>
 
 **🟣 Open To**
-- Software Engineer (SDE) Roles
-- AI/ML Engineer Roles
-- Full Stack Developer Roles
-- Open Source Collaboration
-- Research Internships in AI/ML
+
+- Junior AI Developer Roles
+- GenAI Developer Roles
+- AI / Data Analytics Roles
+- Machine Learning Internships
+- Open Source AI/ML Collaboration
 
 </td>
 </tr>
 </table>
 
----
+-----
 
 ### 🟣 Tech Stack
 
 **Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,dart,ts,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,ts,js&theme=dark"/>
 </p>
 
-**Frontend**
+**AI / ML / GenAI**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-OpenAI%20%2F%20Gemini-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-RAG-6D28D9?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
-**Backend & Databases**
+**Data & Analytics**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,mongodb,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-**Cloud, DevOps & Tooling**
+**Mobile, Cloud & IoT Tooling**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,figma,postman,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,arduino,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-4C1D95?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
+-----
 
-### 🟣 AI / ML Expertise
+### 🟣 AI / ML / GenAI Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning Fundamentals | ⭐⭐⭐⭐ | Supervised & unsupervised learning, model evaluation, scikit-learn workflows |
-| Data Structures & Algorithms | ⭐⭐⭐⭐⭐ | Strong DSA foundation applied to optimization & efficient system design |
-| Applied AI in Mobile Apps | ⭐⭐⭐⭐ | Integrating predictive features (e.g. medication reminders, smart scheduling) into Flutter apps |
-| Operating Systems & Systems Programming | ⭐⭐⭐⭐ | Process scheduling, memory management, concurrency concepts |
-| Data Analysis | ⭐⭐⭐ | Exploratory data analysis, visualization, Python data tooling |
+|Domain                              |Proficiency|Details                                                                              |
+|------------------------------------|-----------|-------------------------------------------------------------------------------------|
+|Prompt Engineering & LLM APIs       |⭐⭐       |Hands-on integration of OpenAI/Gemini APIs for AI chatbot and GenAI applications     |
+|RAG (Retrieval-Augmented Generation)|⭐⭐        |Working knowledge of RAG concepts and pipeline design for intelligent applications   |
+|Machine Learning Pipelines          |⭐⭐       |End-to-end ML pipeline design: data collection → preprocessing → training → inference|
+|Computer Vision (OpenCV)            |⭐⭐       |Built real-time face recognition system using OpenCV & feature encoding techniques   |
+|Data Analytics                      |⭐⭐       |Python (Pandas/NumPy), Power BI, Excel, MySQL for reporting & analysis               |
+|AI + IoT Integration                |⭐⭐       |Combined ML/AI logic with ESP8266/Arduino hardware for smart monitoring systems      |
 
 </div>
 
----
+-----
 
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>💊 PillCare AI — Smart Medication Management App</b></summary>
+<summary><b>💊 AI-Driven Smart Medication Adherence Monitoring System (2026)</b></summary>
 
 <br/>
 
-An AI-assisted medication tracking application designed to help users manage prescriptions, set intelligent reminders, and maintain adherence to medication schedules. Built with a mobile-first architecture for accessibility and ease of use, especially for elderly users and caregivers.
+A Mini Project combining AI, IoT, and mobile development to build a smart pill monitoring system. The system integrates hardware sensors with a Flutter mobile app and Firebase backend, featuring an AI chatbot powered by LLM API integration for natural-language medication guidance.
 
-| Category | Details |
-|---|---|
-| **Stack** | Flutter, Dart, Firebase |
-| **Scale** | Multi-screen mobile application with persistent local & cloud sync |
-| **Performance** | Optimized state management for smooth real-time reminder updates |
-| **Security** | Firebase Authentication & secure user-data storage |
-| **Impact** | Helps users maintain medication adherence through proactive smart reminders |
-| **Repository** | [pill-care-ai](https://github.com/Ayisha-shana-perumballi/pill-care-ai) |
+|Category       |Details                                                                                                                          |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------|
+|**Stack**      |Flutter, Firebase, ESP8266, Python, AI Chatbot (LLM API)                                                                         |
+|**Scale**      |Full-stack AI + IoT system spanning hardware, mobile app, and cloud backend                                                      |
+|**Performance**|Real-time missed-dose alerts and refill tracking via REST API communication                                                      |
+|**Security**   |Firebase-backed authentication and structured data storage                                                                       |
+|**Impact**     |Enables caregiver monitoring dashboard and natural-language patient query support                                                |
+|**Repository** |[pill-care-ai](https://github.com/Ayisha-shana-perumballi/pill-care-ai) · [PILL](https://github.com/Ayisha-shana-perumballi/PILL)|
 
 </details>
 
 <details>
-<summary><b>💊 PILL — Cross-Platform Medication Box App</b></summary>
+<summary><b>👁️ Face Recognition System (2024)</b></summary>
 
 <br/>
 
-A companion application for digital "pill box" management, allowing users to organize medications by dosage, time, and frequency through a clean, intuitive TypeScript-based interface.
+Built during Internship Studio, this project implements a real-time face recognition system processing live video streams using OpenCV and machine learning encoding techniques.
 
-| Category | Details |
-|---|---|
-| **Stack** | TypeScript, React, Node.js |
-| **Scale** | Modular component-driven web application |
-| **Performance** | Lightweight bundle with optimized rendering |
-| **Security** | Input validation & structured data handling |
-| **Impact** | Simplifies daily medication organization for end users |
-| **Repository** | [PILL](https://github.com/Ayisha-shana-perumballi/PILL) |
+|Category       |Details                                                                                             |
+|---------------|----------------------------------------------------------------------------------------------------|
+|**Stack**      |Python, OpenCV, Scikit-learn                                                                        |
+|**Scale**      |Full ML pipeline: data collection → face detection → feature encoding → model training → recognition|
+|**Performance**|Accurate identification maintained across varied lighting conditions                                |
+|**Security**   |Local feature-encoding based recognition (no raw image storage)                                     |
+|**Impact**     |Demonstrated practical computer vision pipeline development from data to deployment                 |
+|**Repository** |Available on request                                                                                |
 
 </details>
 
 <details>
-<summary><b>⚙️ S4-OS — Operating Systems Lab Projects</b></summary>
+<summary><b>🤖 Controlled Robotic Vehicle (Srishti Innovation Workshop)</b></summary>
 
 <br/>
 
-A collection of operating systems coursework implementations covering core OS concepts including process scheduling algorithms, memory allocation strategies, and synchronization primitives.
+A mobile-controlled robot built using Arduino/ESP microcontrollers and an L298N motor driver, enabling real-time wireless navigation via a smartphone interface.
 
-| Category | Details |
-|---|---|
-| **Stack** | C, Shell |
-| **Scale** | Multiple independent OS-concept modules |
-| **Performance** | Algorithm-level efficiency benchmarking (CPU scheduling, paging) |
-| **Security** | Safe memory handling practices in C |
-| **Impact** | Strengthened systems-level programming and OS internals understanding |
-| **Repository** | [s4-OS](https://github.com/Ayisha-shana-perumballi/s4-OS) |
-
-</details>
-
-<details>
-<summary><b>🧠 AI & Data Science Lab — S3</b></summary>
-
-<br/>
-
-A set of AI and Data Structures coursework projects implementing core algorithms in Java and C, covering search algorithms, data structures, and foundational AI problem-solving techniques.
-
-| Category | Details |
-|---|---|
-| **Stack** | Java, C |
-| **Scale** | Multiple algorithm & data structure implementations |
-| **Performance** | Time/space complexity-focused implementations |
-| **Security** | N/A (academic/algorithmic scope) |
-| **Impact** | Built strong foundations in AI search strategies and DSA |
-| **Repository** | [S3-Ai-oops-23](https://github.com/Ayisha-shana-perumballi/S3-Ai-oops-23) · [S3-Ai-DS--23](https://github.com/Ayisha-shana-perumballi/S3-Ai-DS--23-Ayish-shana-perumballi) |
+|Category       |Details                                                              |
+|---------------|---------------------------------------------------------------------|
+|**Stack**      |Arduino, ESP, L298N Motor Driver                                     |
+|**Scale**      |Single embedded system with wireless control interface               |
+|**Performance**|Low-latency Bluetooth/WiFi communication for real-time control       |
+|**Security**   |N/A (hardware prototype scope)                                       |
+|**Impact**     |Built foundational embedded systems and wireless communication skills|
+|**Repository** |Available on request                                                 |
 
 </details>
 
----
+-----
 
 ### 🟣 Experience
 
-**Software Engineering Student & Independent Developer**
-*Computer Science Engineering Program*
+**Incentive Data Analyst Intern — IMPEX**
+*Manjeri, Kerala*
 
-`2023 — Present`
+`June 2025 (1 month)`
 
-Actively building independent software projects spanning mobile development, AI integration, and systems programming while completing a Computer Science engineering curriculum focused on algorithms, operating systems, and applied AI.
+Performed end-to-end data cleaning and analysis on incentive datasets, collaborating with the finance team to deliver accurate, deadline-driven reports used in business decision-making.
 
 **Scope of Work**
-- Designed and developed a healthcare-focused mobile application (PillCare AI) for medication management
-- Implemented core operating system concepts including scheduling algorithms and memory management
-- Built AI/DSA algorithm implementations as part of coursework and self-study
-- Developed cross-platform applications using Flutter and TypeScript
-- Collaborated on version-controlled projects using Git & GitHub workflows
 
-**Skills:** `Flutter` `Dart` `TypeScript` `Java` `C` `Firebase` `Git` `Data Structures & Algorithms` `Operating Systems` `AI/ML Fundamentals`
+- Performed end-to-end data cleaning and analysis on incentive datasets using Python (Pandas) and Excel, ensuring accuracy across 1,000+ records
+- Generated performance metrics reports and automated payout calculation workflows, reducing manual reporting time by an estimated 30%
+- Collaborated with the finance team to deliver accurate, deadline-driven reports used in business decision-making
 
----
+**Skills:** `Python` `Pandas` `Excel` `Data Cleaning` `Reporting Automation` `Stakeholder Collaboration`
+
+-----
+
+**Artificial Intelligence Intern — Internship Studio**
+
+`2024`
+
+Worked on a real-time face recognition system, designing and implementing a complete machine learning pipeline from data collection to model deployment.
+
+**Scope of Work**
+
+- Built a real-time face recognition system using OpenCV and ML encoding techniques
+- Designed the full ML pipeline: data collection → face detection → feature encoding → model training → recognition
+- Achieved accurate identification performance across varied lighting conditions
+
+**Skills:** `Python` `OpenCV` `Scikit-learn` `Machine Learning Pipelines` `Computer Vision`
+
+-----
 
 ### 🟣 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏆 GitHub Pro | Active GitHub Pro account holder |
-| 💻 Multi-Domain Project Portfolio | Built projects across mobile, web, AI, and systems programming |
-| 📚 Strong Academic Foundation | Consistent coursework in AI, Data Structures, and Operating Systems |
+|Recognition                                           |Details                                                        |
+|------------------------------------------------------|---------------------------------------------------------------|
+|🏆 GenAI Job Simulation — BCG X                        |Completed industry-aligned GenAI job simulation program        |
+|🏆 24-Hour National Level GenAI Online Hackathon       |Participant — built GenAI-based solution under time constraints|
+|🏆 Certificate of Appreciation — Brahma’25 (Synchronix)|Recognized as Event Coordinator                                |
+|🏆 Cultural Core — Brahma-26                           |Core team contributor for college cultural event               |
+|🏆 Battery Management System Workshop — DHISHNA, CUSAT |Completed specialized hardware workshop                        |
 
 </div>
 
----
+-----
 
 ### 🟣 Certifications
 
-**AWS**
+**Artificial Intelligence & GenAI**
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Essentials-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/BCG%20X-GenAI%20Job%20Simulation-7C3AED?style=for-the-badge&logo=bcg&logoColor=white"/>
+<img src="https://img.shields.io/badge/Internship%20Studio-AI%20Internship-6D28D9?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hexinox-Applied%20AI%20Workshop-4C1D95?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
-**Oracle**
+**Machine Learning**
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-6D28D9?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-Python%20for%20ML%20A--Z-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 
-**NPTEL**
+**Programming**
 
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/JVM-Java%20%26%20Scala%20Intro-8B5CF6?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn%20Learning-Programming%20Foundations-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
+-----
 
 ### 🟣 Coding Profiles
 
@@ -248,7 +261,7 @@ Actively building independent software projects spanning mobile development, AI 
 <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
----
+-----
 
 ### 🟣 GitHub Analytics
 
@@ -263,7 +276,7 @@ Actively building independent software projects spanning mobile development, AI 
 
 </div>
 
----
+-----
 
 ### 🟣 GitHub Trophies
 
@@ -271,7 +284,7 @@ Actively building independent software projects spanning mobile development, AI 
 <img src="https://github-profile-trophy.vercel.app/?username=Ayisha-shana-perumballi&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
----
+-----
 
 ### 🟣 Contribution Activity
 
@@ -279,7 +292,7 @@ Actively building independent software projects spanning mobile development, AI 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayisha-shana-perumballi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 </div>
 
----
+-----
 
 ### 🟣 Contribution Snake
 
@@ -287,62 +300,51 @@ Actively building independent software projects spanning mobile development, AI 
 <img src="https://raw.githubusercontent.com/Ayisha-shana-perumballi/Ayisha-shana-perumballi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+-----
 
 ### 🟣 Current Focus
 
 ```yaml
 learning:
-  - Advanced Machine Learning & Deep Learning
-  - System Design for scalable applications
-  - Cloud-native deployment (AWS)
+  - Advanced RAG architectures & vector databases
+  - LLM fine-tuning and evaluation
+  - TensorFlow for deep learning
 
 building:
-  - PillCare AI: expanding ML-based medication adherence predictions
-  - Personal portfolio website with project showcases
+  - AI-Driven Smart Medication Adherence Monitoring System (expanding GenAI chatbot)
+  - Personal GenAI project portfolio
 
 exploring:
-  - Generative AI applications in healthcare
-  - DevOps & CI/CD pipelines for mobile apps
+  - Multi-modal GenAI applications
+  - AI-powered data analytics dashboards
+  - Production deployment of ML pipelines
 
 open_to:
-  - Software Engineer Internships / Full-time roles
-  - AI/ML Engineer opportunities
-  - Open source collaboration
+  - Junior AI Developer roles
+  - GenAI Developer roles
+  - AI / Data Analytics internships & full-time roles
 ```
 
----
+-----
 
 ### 🟣 Connect With Me
 
 <p align="center">
-<a href="mailto:ayishashana@example.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ayisha-shana-perumballi"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayishashana256@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayisha-shana-perumballi-66669a314"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Ayisha-shana-perumballi"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
+-----
 
 <div align="center">
 
-*"Code is the bridge between an idea and its impact."*
+*“Where data meets intelligence, ideas become impact.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
+## 🐍 Contribution Snake
 
-<!--
-**Ayisha-shana-perumballi/Ayisha-shana-perumballi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Ayisha-shana-perumballi/Ayisha-shana-perumballi/blob/output/github-contribution-grid-snake.svg)
