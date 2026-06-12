@@ -347,5 +347,4 @@ open_to:
 </div>
 
 ## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Ayisha-shana-perumballi/Ayisha-shana-perumballi/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Ayisha-shana-perumballi/Ayisha-shana-perumballi/output/github-contribution-grid-snake.svg" alt="Snake animation">
